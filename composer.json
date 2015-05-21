@@ -1,0 +1,10 @@
+{
+    "name": "aramisauto/meteor-bootstrap",
+    "description": "A Bootstrap Twitter integration for Meteor.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Aramis i-team"
+        }
+    ]
+}
